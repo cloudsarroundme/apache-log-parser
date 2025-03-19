@@ -1,0 +1,2 @@
+127.0.0.1 - - [11/Oct/2023:10:00:00 +0000] "GET /index.html HTTP/1.1" 200 1234 "http://www.example.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+192.168.1.10 - - [11/Oct/2023:10:05:00 +0000] "POST /login HTTP/1.1" 302 0 "http://www.example.com/login" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
